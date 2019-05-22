@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     _browser.setup(ofGetWidth(), ofGetHeight(), "ofxAwesomiumPlus");
-    _browser.loadURL("http://www.google.com");
+    _browser.loadURL("https://m.naver.com");
 
 }
 

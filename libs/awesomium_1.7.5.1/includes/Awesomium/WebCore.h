@@ -30,7 +30,7 @@ namespace Awesomium {
 ///
 /// The severity level for a log message. See WebCore::Log
 ///
-enum LogSeverity {
+enum Log_Severity { // <SetupAPI.h> Ãæµ¹ #define LogSeverity DWORD
   kLogSeverity_Info = 0,    ///< Info message
   kLogSeverity_Warning,     ///< Warning message
   kLogSeverity_Error,       ///< Error message

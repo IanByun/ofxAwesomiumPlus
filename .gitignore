@@ -315,3 +315,4 @@ example-basic/bin/data/Logs
 example-binding/bin/*
 !example-binding/bin/data
 example-binding/bin/data/Logs
+/example-basic/bin/data/SessionData

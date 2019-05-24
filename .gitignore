@@ -21,10 +21,6 @@ SessionData/
 [Xx]86/
 [Bb]uild/
 bld/
-#[Bb]in/
-[Bb]in/*.*
-[Bb]in/data/*.*
-[Bb]in/data/Point Cloud Demo/
 [Oo]bj/
 
 # Visual Studio 2015 cache/options directory

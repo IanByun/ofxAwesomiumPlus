@@ -13,9 +13,9 @@ SessionData/
 *.userprefs
 
 # Build results
-[Dd]ebug/
+#[Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
+#[Rr]elease/
 [Rr]eleases/
 [Xx]64/
 [Xx]86/
@@ -264,8 +264,8 @@ xcuserdata
 [Bb]uild/
 [Oo]bj/
 *.o
-[Dd]ebug*/
-[Rr]elease*/
+#[Dd]ebug*/
+#[Rr]elease*/
 *.mode*
 *.app/
 
@@ -292,8 +292,8 @@ xcuserdata
 [Bb]uild/
 [Oo]bj/
 *.o
-[Dd]ebug*/
-[Rr]elease*/
+#[Dd]ebug*/
+#[Rr]elease*/
 *.mode*
 *.app/
 
